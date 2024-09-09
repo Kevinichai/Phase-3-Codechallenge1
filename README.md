@@ -37,3 +37,6 @@ To access this repository, there's a variety of steps one can take.
 . Make your way to the repository main page and press the fork button
 
 . This allows you to fork the repo to your github account from where you can use the first alternative to install this repo.
+
+#AUTHORS
+This project was done by Kevin Ichai and subsequently hosted on his github page.
