@@ -22,7 +22,7 @@ To access this repository, there's a variety of steps one can take.
 
 . Open a terminal/command line interface on your local machine(computer)
 
-. Clone the repository holding this project by using the input: git clone 
+. Clone the repository holding this project by using the input: git clone git@github.com:Kevinichai/Phase-3-Codechallenge1.git
 
 . Wait for the sequence to run until it successfully clones the repository on your local machine
 
